@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncomePlanner", "IncomePlanner.csproj", "{3FC927D6-58F7-451A-89B1-3BAC02A23824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FC927D6-58F7-451A-89B1-3BAC02A23824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC927D6-58F7-451A-89B1-3BAC02A23824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC927D6-58F7-451A-89B1-3BAC02A23824}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3FC927D6-58F7-451A-89B1-3BAC02A23824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC927D6-58F7-451A-89B1-3BAC02A23824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FC927D6-58F7-451A-89B1-3BAC02A23824}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13412249-BD49-4093-B015-6CE181AA8E4B}
+	EndGlobalSection
+EndGlobal
